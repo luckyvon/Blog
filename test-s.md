@@ -1,5 +1,5 @@
 
-```ruby
+```swift
 require 'redcapret'
 markdown = Redcarpet.new("hello world")
 puts markdown.to_html
